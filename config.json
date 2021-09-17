@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://laughing-kare-c78604.netlify.app/",
+  "site_title": "Matt's Next.js Blog!",
+  "site_description": "Next.js blog template for Netlify and powered by Netlify CMS!",
   "site_keywords": [
     {
       "keyword": "Next.js"
